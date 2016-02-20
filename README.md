@@ -28,11 +28,6 @@ You can then serve up the page with either `npm start` or `node server.js`.
 
 If you wish to modify the code, please note that any changes made to the MIDI subsystem requires a recompilation of the subsystem sources. Please `npm install -g browserify`, `cd midi/` and run `./compile`. This will regenerate `bundle.js`.
 
-## Copyright
-Rhythm is copyright Thenaesh Elango and Sadhika Billa.
-
-MIDI.js is copyright Michael Deal. Pixi.js is copyright the Pixi.js team.
-
 ## Permissions
 Rhythm is licensed for use under the GNU General Public Licence, version 3.
 
